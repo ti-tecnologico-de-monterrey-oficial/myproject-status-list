@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://ti-tecnologico-de-monterrey-oficial.github.io/myproject-status-list/SFXSIVP1D8#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCIE9j2j_FWuwClgYAAAAAAAAAAAAAAODbAe95prvUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAgDoPkZc_1T2MILaHYCAAAAAAAAAAAAAADw7AC0wsEG1DAAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MktdZHB8NkAnjeWy6jcFyvYvm4tPoJS1c6wu1CEMsq9HLY",
-  "issuanceDate": "2024-03-15T22:40:44.895Z",
+  "issuanceDate": "2024-03-20T23:27:11.447Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2024-03-15T22:40:44Z",
+    "created": "2024-03-20T23:27:11Z",
     "verificationMethod": "did:key:z6MktdZHB8NkAnjeWy6jcFyvYvm4tPoJS1c6wu1CEMsq9HLY#z6MktdZHB8NkAnjeWy6jcFyvYvm4tPoJS1c6wu1CEMsq9HLY",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z34kKmdDjeVGgnzDerS3EVDTCNZVGznaWMd41JegdYYg95CEPUtQehXDMhWsyaLTPq4eWR4zdbBLhPywHhj2JgZ2E"
+    "proofValue": "z3kCKgmc4D6PSKyXKH9KGri6tU6f9dgEaScazUT9bRarGAyyH6keJxwSDCtR76qwrf71TZ7RgNNYbUqjKGLaMzgxH"
   }
 }
